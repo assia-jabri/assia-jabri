@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=assia-jabri&label=Profile%20views&color=0e75b6&style=flat" alt="assia-jabri" /> </p>
 
-- ⚡ Fun fact **Darkness attracts bugs too.**
+- ⚡ Fun fact **Dark mode attracts bugs too.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
