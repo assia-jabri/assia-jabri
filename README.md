@@ -1,9 +1,10 @@
-<h1 align="center">Hi 👋, I'm Assia JABRI</h1>
+<h1 align="center">Hello 👋, I'm Assia JABRI</h1>
 <h3 align="center">A passionate web developer and a software engineering student from Morocco </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=assia-jabri&label=Profile%20views&color=0e75b6&style=flat" alt="assia-jabri" /> </p>
 
 - ⚡ Fun fact **Dark mode attracts bugs too.**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
