@@ -5,7 +5,7 @@
 
 - Worked on various real-world software projects.
 - Won two hackathons, demonstrating my problem-solving and teamwork skills.
-- Completed internships at SQLI Oujda and Novelis Oujda, where I gained hands-on experience in developing software applications.
+- Completed internships at different places, where I gained hands-on experience in developing software applications.
 
 I am constantly seeking opportunities to learn and grow as a software engineer. Feel free to explore my repositories to get a glimpse of my work. If you have any questions or collaboration ideas, please don't hesitate to reach out!
 
